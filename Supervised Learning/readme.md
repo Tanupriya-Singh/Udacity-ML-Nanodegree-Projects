@@ -1,4 +1,5 @@
-This project was designed to apply our knowledge of Supervised learning algorithms.
+**This project is designed to apply our knowledge of Supervised learning algorithms.
+**
 
 Things to learn:
 
