@@ -1,9 +1,3 @@
-**This project is designed to apply our knowledge of Supervised learning algorithms.
-**
+CharityML is a fictitious charity organization located in the heart of Silicon Valley that was established to provide financial support for people eager to learn machine learning. 
 
-Things to learn:
-
-How to identify when preprocessing is needed, and how to apply it.
-How to establish a benchmark for a solution to the problem.
-What each of several supervised learning algorithms accomplishes given a specific dataset.
-How to investigate whether a candidate solution model is adequate for the problem.
+Our goal is to find potential donors by using supervised algorithms e.g., GradientBoost,RandomBoost, SVM Kernel on the above CharityML data.
